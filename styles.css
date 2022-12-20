@@ -10,7 +10,7 @@ form{
     margin-bottom: 30px;
     
     border-bottom: 2px solid rgb(44,90,44);
-    width: 500px;
+    width: 400px;
     
 }
 svg{
@@ -68,8 +68,4 @@ main{
 .imagediv:hover .maindiv{
     opacity: 1;
 }
-@media(max-width:800px){
-    .form{
-        width: 180px;
-    }
-}
+
